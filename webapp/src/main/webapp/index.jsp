@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>THIS ME FHFGFHGFHFGKJHKGKGGKGJGJGJHGKGKGKFJGKGGKGKGKGKGK
-FHFG</h1>
+    <h1>Registration App for DEV-OPS Learning by Aniket Manjare</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
